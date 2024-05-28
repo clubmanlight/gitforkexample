@@ -1,4 +1,5 @@
-# Bernie
+# Bernie Forker
+# Roz Forker
 
 # gitforkexample
 This repo is created to illustrate the action of git forking and pull request.
